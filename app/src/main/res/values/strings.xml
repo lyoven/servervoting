@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServerVoting</string>
+    <string name="nextVote">Next voting:</string>
+    <string name="ready">Ready for next voting!</string>
+    <string name="currentAcc">Currently voting for account:</string>
+    <string name="vote">Start voting!</string>
+    <string name="started">Voting started.</string>
+    <string name="finished">Voting finished.</string>
+    <string name="nextVoteTime">Voting finished.</string>
+    <string name="reset">Reset</string>
+</resources>
